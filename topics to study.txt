@@ -1,0 +1,152 @@
+What is JavaScript?
+ Statically vs dynamically typed language
+ Primitive & Non-primitive data types
+ Null, undefined, and not defined
+ Escape sequence
+ Hoisting
+ Scope (Global, Local, Block, Function)
+ Block Scope
+ Lexical Environment
+ Scope Chaining
+ Call, apply, and bind
+ this keyword
+ Closure 
+ Prototypes
+ Prototypical inheritance
+ Factory function
+ Pure Function vs Impure Function
+ Loops - difference between while and do-while
+ Working of Event Loop 
+ setTimeout, setInterval 
+ Microtask queue await
+ Callback Queue
+ Callback hell 
+ Promise and Promise.all
+ Promise.race vs Promise.any
+ Async and Sync, await
+ Currying
+ Deep copy & Shallow copy 
+ JSON & JSON Methods
+ Array vs Set
+ Map, Filter, Reduce, and Flat 
+ Spread Operator
+ Rest Operator
+ Optional Chaining
+ Null Coalescing
+ Object.freeze vs Object.seal
+ Object methods
+ Object shorthand
+ Template literals
+ Splice and slice 
+ DOM
+ Event Bubbling and Capturing
+ Event Propagation
+ Event Delegation
+ IIFE (Immediately Invoked Function Expression)
+ Event Listeners
+ IndexOf, typeof, instanceof
+ Styling console log
+ Class and constructor
+ Coercion - implicit, explicit String Boolean Coercion
+ Use of Strict
+ Promise States
+ ForEach - Sum of array
+ Spread - Adding 2 arrays
+ Usage of Promise, await, async 
+ jQuery Side Effects
+ Dynamic typing
+ Destructuring
+ Arrow function advantage and syntax
+ Passed By Value vs Passed By Reference
+ JavaScript coding conventions
+ Callbacks 
+ WeakSet vs WeakMap
+ Promise methods
+ Promise.allSettled
+ for...of vs for...in
+ Removing the nth element from an array
+ Function to return the sum of all arguments passed to it (rest)
+ Generator function to return multiples of a given number
+ Write a function to know if a given string is a Palindrome or not
+ Change 'hello world' to 'world hello'
+ JavaScript Iterables
+ Sets
+ Math Function
+ Pure Function and Side Effect
+ Impure Function
+ Higher-order Function
+ First-class Function
+ Named Function
+ Anonymous Function
+proxy
+polyfills
+truth table xor
+optional chaining
+bubbling delegation
+weakSet weakMap
+generator function
+1-  Callbacks vs promises
+2-  Event deligation (evnt blng,evnt captring,)
+3-  Factory Functions (returns object)
+4-  Template Literals (backtick)
+5-  Object Literals 
+6-  String Coercion
+7-  Var , let , const
+8-  Functional Scope vs Block Scope 
+9-  event loop & code execution
+10- memoization
+11- continue
+13- event driven architecture 
+14- Object.prototype (inherit properties and methods from one object to another)
+16- bind
+17- Purpose of closures
+18- purpose/benefits of higher order function (it takes one or more fnctn as argmnt and rtrns new fnctn)
+19- process.nexttick
+20- piping
+21- object manipulation (working with objects, accessing, updating, creating, removing, adding)
+22- bitwise operator( & , | , ^ xor , ~ not, << left shift)
+23- implicit and explicit coercion (implicit : autmatic convertion, explicit : one data type to another by inbuild keywords)
+24- benefits of iife (immediate exctn, it will not harm global namespace pollution)
+25- variable shadowing (when a variable declared within a certain scope has the same name as a variable in an outer scope)
+26- default parameter
+27- weak set
+28- weak map
+29- object.seal vs object.freeze (write only, read only)
+30- event bubbling (child to parent)
+31- event captring (parent to child)
+32- call by value (modifying value inside fnctn. it will not effect the out side variable) 
+33- call by reference (eg: adding value to a array inside fnctn. so the actual array modified)
+34- constructor (instnc of objct)
+35- arrow fnctn vs normal fnctn
+36- ways to make object
+37- exec() (method used in (regex) to execute a search for a match in a specified string.It returns an array of information or null if no match is found)
+38- hoisting 
+39- closure
+40- this keyword
+41- promise states and methods
+42- event propagation
+43- map/filter/reduce
+44- array methods (map,fltr,rdc,freach)
+45- fnct composition (two or more functions are combined to create a new function)
+46- throttling
+47- deep freeze (to freeze all nested ojects)
+48- currying needs
+49- nullish operator
+50- escape sequence(\n, \t)
+51- map vs hashmap
+52- ternary operator
+53- higher order fnctn
+54- first order fnctn (do not take a fnctn as a armnt or return a fnctn)
+55- first class fnctn (a fnctn which is assigned to a variable or send as a argument to another function or returned by a fnctn)
+56- spread operator (let arr = [...arr1,...arr2])
+57- rest operator vs rest parameter (for destructuring [a,b,...c] = x,  fnctn ab(...x))
+58- exception handling (to avoid runtime error, try catch finally)
+59- control sequence (if else, else if , switch,for loop, while loop, do while loop)
+60- method chaining (calling multiple methods on a same object eg: obj.add(1).add(2).add(3))
+61- object destructuring
+Find Second Highest and second least element from an array
+8-  Find the sum of prime numbers in a array 
+9-  reverse an array without using a new array & .reverse() method
+10- find key with highest value in an object
+11- generator function implementaions
+concat ooperation
