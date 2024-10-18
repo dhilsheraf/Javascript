@@ -457,3 +457,6 @@ let narr = []
 //         console.log(j)
 // }
 
+     let a = 10 ;
+     console.log(a)
+
